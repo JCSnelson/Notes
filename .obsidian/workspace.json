@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "f5015008e5f1619b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6760be52d9685ccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb4ac4806d02852",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Maths/Extra Maths/Schooling the kids.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Schooling the kids"
+            }
+          },
+          {
+            "id": "9bb7da348b7589ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/AQA-7408-SDB.PDF"
+              },
+              "icon": "lucide-file-text",
+              "title": "AQA-7408-SDB"
+            }
+          },
+          {
+            "id": "c72702eab7656141",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Physics/Electricity/Practice.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Practice"
+            }
+          },
+          {
+            "id": "3431114e7e7281f3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Maths/Further Maths/Core Pure/Vectors.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Vectors"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36ffed0f902af4a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "503eb102d970c327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35034dc00637b3f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "49987c73678c4d92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a6a823df54fd1896",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8453b75ac8bc3418",
+    "type": "split",
+    "children": [
+      {
+        "id": "794ea2300a4125df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91a04bf24f6842c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maths/Further Maths/Core Pure/Core Pure 2 2019.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Core Pure 2 2019"
+            }
+          },
+          {
+            "id": "efefeef04d2a4fb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maths/Extra Maths/Extra Maths.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Extra Maths"
+            }
+          },
+          {
+            "id": "9b886230ceac8d24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e6a3f5de4f5ffa78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maths/Further Maths/Mechanics/fm_p.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of fm_p"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "handwritten-notes:Create empty handwritten note": false
+    }
+  },
+  "active": "9bb7da348b7589ba",
+  "lastOpenFiles": [
+    "Physics/Electricity/Practice.md",
+    "Maths/Further Maths/Core Pure/Vectors.md",
+    "Maths/Extra Maths/Schooling the kids.md",
+    "Physics/AQA-7408-SDB.PDF",
+    "Physics/Physics.md",
+    "Physics/Electricity/Electricity.md",
+    "Maths/Formula Booklet.pdf",
+    "Physics/Electricity",
+    "Pasted Image 20250423120236_846.png",
+    "Pasted Image 20250423114434_928.png",
+    "Physics/Revision/Drawing 2025-04-23 10.08.47.excalidraw.md",
+    "Maths/Extra Maths/Extra Maths.md",
+    "Physics/Revision/Revision.md",
+    "Maths/Extra Maths/Drawing 2025-04-23 10.07.30.excalidraw.md",
+    "Physics/Revision",
+    "Maths/Extra Maths/Untitled.md",
+    "Maths/Extra Maths/Neuron.md",
+    "Maths/Further Maths/Core Pure/Complex Numbers.md",
+    "Maths/Further Maths/Core Pure/Random Qs.md",
+    "Maths/Further Maths/Core Pure/Core Pure.md",
+    "Maths/Further Maths/Core Pure/Untitled.md",
+    "Maths/Extra Maths/Whitely.md",
+    "Maths/Maths.md",
+    "Maths/Regular Maths/Pure/mp2_e2.md",
+    "Maths/Regular Maths/Pure/mp2_e.md",
+    "Maths/Further Maths/Mechanics/June 2020 QP.pdf",
+    "Maths/Further Maths/Decision/Random Qs.md",
+    "Maths/Regular Maths/Applied/Sadistics.md",
+    "Maths/Extra Maths/Comp Practice/IYMC/2023 Quali.md",
+    "Maths/Extra Maths/Basel problem.md",
+    "Maths/Extra Maths/Comp Practice/IYMC/IYMC.md",
+    "Maths/Extra Maths/Comp Practice/IYMC/QD.PNG",
+    "Maths/Extra Maths/Comp Practice/IYMC/QC.PNG",
+    "Maths/Extra Maths/Comp Practice/IYMC/QB.PNG",
+    "Maths/Extra Maths/Comp Practice/IYMC/QA.PNG",
+    "Maths/Extra Maths/Comp Practice/Comp Practice.md",
+    "Maths/Extra Maths/Comp Practice/IYMC",
+    "Maths/Extra Maths/Comp Practice",
+    "Physics/Gasses",
+    "Physics/Uncertainty",
+    "Notes",
+    "Maths/Extra Maths/IMO 2008.PNG",
+    "Maths/Extra Maths/IMO 2010.PNG",
+    "Maths/Extra Maths/Cursed ODe.jpg",
+    "Maths/Further Maths/Mechanics/AHHH.jpg",
+    "Maths/Extra Maths/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
