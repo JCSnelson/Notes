@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6760be52d9685ccc",
+        "id": "087e46f76ebc75df",
         "type": "tabs",
         "children": [
           {
-            "id": "eeb4ac4806d02852",
+            "id": "5d7864c679ea03b8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Maths/Extra Maths/Schooling the kids.md"
+                "file": "Computer Science/Paper 1/HELL PAPER 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Schooling the kids"
+              "icon": "lucide-file",
+              "title": "HELL PAPER 1"
             }
           },
           {
-            "id": "9bb7da348b7589ba",
+            "id": "eabe4cbc3c5f3968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Paper 1/Feedback Hell Paper 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feedback Hell Paper 1"
+            }
+          },
+          {
+            "id": "787d3e4d6c73ac02",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -30,33 +46,9 @@
               "icon": "lucide-file-text",
               "title": "AQA-7408-SDB"
             }
-          },
-          {
-            "id": "c72702eab7656141",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Physics/Electricity/Practice.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Practice"
-            }
-          },
-          {
-            "id": "3431114e7e7281f3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Maths/Further Maths/Core Pure/Vectors.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Vectors"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8453b75ac8bc3418",
@@ -130,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths/Further Maths/Core Pure/Core Pure 2 2019.md",
+                "file": "Computer Science/Paper 1/Software Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Core Pure 2 2019"
+              "title": "Backlinks for Software Development"
             }
           },
           {
@@ -187,8 +178,7 @@
               "title": "Outline of fm_p"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,53 +197,53 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "9bb7da348b7589ba",
+  "active": "787d3e4d6c73ac02",
   "lastOpenFiles": [
-    "Physics/Electricity/Practice.md",
-    "Maths/Further Maths/Core Pure/Vectors.md",
-    "Maths/Extra Maths/Schooling the kids.md",
-    "Physics/AQA-7408-SDB.PDF",
-    "Physics/Physics.md",
-    "Physics/Electricity/Electricity.md",
     "Maths/Formula Booklet.pdf",
-    "Physics/Electricity",
-    "Pasted Image 20250423120236_846.png",
-    "Pasted Image 20250423114434_928.png",
-    "Physics/Revision/Drawing 2025-04-23 10.08.47.excalidraw.md",
-    "Maths/Extra Maths/Extra Maths.md",
-    "Physics/Revision/Revision.md",
-    "Maths/Extra Maths/Drawing 2025-04-23 10.07.30.excalidraw.md",
-    "Physics/Revision",
-    "Maths/Extra Maths/Untitled.md",
-    "Maths/Extra Maths/Neuron.md",
-    "Maths/Further Maths/Core Pure/Complex Numbers.md",
+    "Computer Science/Paper 1/Feedback Hell Paper 1.md",
+    "Computer Science/Paper 1/HELL PAPER 1.md",
+    "Pasted image 20250530164657.png",
+    "Physics/Paper 1/Practice Paper.md",
+    "Physics/AQA-7408-SDB.PDF",
+    "Physics/Paper 1/Particle/Particle.md",
+    "Maths/Regular Maths/Pure/shadow set 1.md",
+    "Physics/Physics.md",
+    "Physics/Paper 1/Paper 1.md",
+    "Physics/Paper 1",
+    "Maths/Further Maths/Core Pure/Shadow Paper 1.md",
+    "Physics/Paper 2/Magnetic Fields/Magnetism Practice.md",
+    "Physics/Paper 1/Particle",
+    "Physics/Paper 2/Magnetic Fields/Magnetic Fields.md",
+    "Computer Science/Paper 1/Software Development.md",
+    "Computer Science/Paper 1/System Architechture.md",
+    "Computer Science/Paper 1/Legislation.md",
+    "Computer Science/Paper 1/Paper 1.md",
+    "Computer Science/Paper 1/Operating Systems.md",
+    "Computer Science/General Revision.md",
+    "Maths/Further Maths/Core Pure/2010-9FM0-01-AL-Core-Pure-1-October-2020-Shadow-paper-pdf.pdf",
+    "Maths/Further Maths/2010-9FM0-01-AL-Core-Pure-1-October-2020-Shadow-paper-pdf.pdf",
+    "Maths/2010-9FM0-01-AL-Core-Pure-1-October-2020-Shadow-paper-pdf.pdf",
+    "2010-9FM0-01-AL-Core-Pure-1-October-2020-Shadow-paper-pdf.pdf",
+    "Maths/Regular Maths/Pure/Untitled.md",
+    "Physics/Paper 2/Thermal Physics/Thermal Physics.md",
     "Maths/Further Maths/Core Pure/Random Qs.md",
-    "Maths/Further Maths/Core Pure/Core Pure.md",
-    "Maths/Further Maths/Core Pure/Untitled.md",
-    "Maths/Extra Maths/Whitely.md",
-    "Maths/Maths.md",
-    "Maths/Regular Maths/Pure/mp2_e2.md",
-    "Maths/Regular Maths/Pure/mp2_e.md",
-    "Maths/Further Maths/Mechanics/June 2020 QP.pdf",
-    "Maths/Further Maths/Decision/Random Qs.md",
-    "Maths/Regular Maths/Applied/Sadistics.md",
-    "Maths/Extra Maths/Comp Practice/IYMC/2023 Quali.md",
-    "Maths/Extra Maths/Basel problem.md",
-    "Maths/Extra Maths/Comp Practice/IYMC/IYMC.md",
+    "Physics/Paper 2/Thermal Physics/Pressure law.md",
+    "Physics/Paper 2/Paper 2.md",
+    "Physics/Paper 2/Gasses/Gasses.md",
+    "Physics/Paper 2/Thermal Physics",
+    "Computer Science/Computer Science.md",
+    "Physics/Paper 2",
+    "Physics/Untitled.md",
+    "Untitled.md",
+    "Maths/Extra Maths/IMO 2010.PNG",
+    "Maths/Extra Maths/IMO 2024 Q4.PNG",
+    "Maths/Extra Maths/IMO 2008.PNG",
+    "Maths/Extra Maths/Geometry.jpg",
+    "Maths/Extra Maths/Cursed ODe.jpg",
+    "Pasted Image 20250423114434_928.png",
+    "Pasted Image 20250423120236_846.png",
     "Maths/Extra Maths/Comp Practice/IYMC/QD.PNG",
     "Maths/Extra Maths/Comp Practice/IYMC/QC.PNG",
-    "Maths/Extra Maths/Comp Practice/IYMC/QB.PNG",
-    "Maths/Extra Maths/Comp Practice/IYMC/QA.PNG",
-    "Maths/Extra Maths/Comp Practice/Comp Practice.md",
-    "Maths/Extra Maths/Comp Practice/IYMC",
-    "Maths/Extra Maths/Comp Practice",
-    "Physics/Gasses",
-    "Physics/Uncertainty",
-    "Notes",
-    "Maths/Extra Maths/IMO 2008.PNG",
-    "Maths/Extra Maths/IMO 2010.PNG",
-    "Maths/Extra Maths/Cursed ODe.jpg",
-    "Maths/Further Maths/Mechanics/AHHH.jpg",
     "Maths/Extra Maths/Untitled.canvas",
     "Untitled.canvas"
   ]
